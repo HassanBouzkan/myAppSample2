@@ -3,8 +3,8 @@ public class example {
 
 	public static void main(String[] args) {
 		
-	String name = "Zineb";
-	
+	String name = "Hind";
+
 	switch (name) {
 	case"Ahmed" : System.out.println("That's Ahmed");
 	break;
